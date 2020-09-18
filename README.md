@@ -9,11 +9,11 @@
         <img height="70" alt="Github" src="https://raw.githubusercontent.com/nemototea/nemototea/master/svg/00git.svg" ></a>
     <a href="http://twitter.com/nemototea">
         <img height="70" alt="Twitter" src="https://raw.githubusercontent.com/nemototea/nemototea/master/svg/00t.svg" ></a>
-    <a href="https://nemotea.hatenadiary.com/"> 
-        <img height="100" alt="Hatena" src="https://raw.githubusercontent.com/nemototea/nemototea/master/svg/hatenablog-logo.svg" ></a>
 </div>
 
-## 📈 GitHub Stats
+<div align="center">
+  <h1>📈 GitHub Stats</h1>
+</div>
 
 <p float="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api?username=nemototea&show_icons=true&include_all_commits=true&hide=contribs,prs,issues&theme=tokyonight" /></a>
@@ -21,7 +21,10 @@
  
 </p>
 
-## 📜 Blog
+
+<div align="center">
+  <h1>📜 Blog</h1>
+</div>
 
 <div align="center">
     <a href="https://nemotea.hatenadiary.com/"> 
