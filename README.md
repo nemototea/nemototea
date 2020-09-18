@@ -20,7 +20,7 @@
 ## ⌨️ How to access my blog
 
 <a href="https://nemotea.hatenadiary.com/" target="_blank"> 
-    <img border="0" height="70" alt="Hatena" src="https://raw.githubusercontent.com/nemototea/nemototea/master/svg/hatenablog-logo.svg" > 
+    <img border="0" height="100" alt="Hatena" src="https://raw.githubusercontent.com/nemototea/nemototea/master/svg/hatenablog-logo.svg" > 
 </a>
 
 
