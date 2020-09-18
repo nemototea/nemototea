@@ -4,13 +4,10 @@
   <h1>Hi there🍵</h1>
 </div>
 
-
 <div align="center">
-
-<!-- <a href="http://twitter.com/nemototea"><img height="70" alt="Twitter" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/svg/00t.svg" ></a>
-<a href="https://github.com/nemototea"><img height="70" alt="Github" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/svg/00git.svg" ></a> -->
+    <a href="https://github.com/nemototea"><img height="70" alt="Github" src="https://raw.githubusercontent.com/nemototea/nemototea/master/svg/00git.svg" ></a>
+    <a href="http://twitter.com/nemototea"><img height="70" alt="Twitter" src="https://raw.githubusercontent.com/nemototea/nemototea/master/svg/00t.svg" ></a>
 </div>
-
 
 ## 📈 GitHub Stats
 
@@ -22,11 +19,10 @@
 
 ## ⌨️ How to access my blog
 
-<!-- <a href="https://nemotea.hatenadiary.com/" target="_blank"> <img border="0" alt="Dev" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/devto.svg" > </a> -->
+<a href="https://nemotea.hatenadiary.com/" target="_blank"> 
+    <img border="0" alt="Dev" src="https://raw.githubusercontent.com/nemototea/nemototea/master/svg/hatenablog-logo.svg" > 
+</a>
 
-## 📫 How to reach me
-
-<!-- <a href="http://twitter.com/nemototea" target="_blank"> <img border="0" alt="Twitter" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/twitter.svg" > </a> -->
 
 <div align="center">
   <h3>🌚🌘🌗🌝🌓🌒🌚</h3>	   
