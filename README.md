@@ -20,8 +20,3 @@
         <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemototea&layout=compact&theme=tokyonight" /></a>
  
 </p>
-
-## 📜 Blog
-<a href="https://nemotea.hatenadiary.com/"> 
-    <img height="100" alt="Hatena" src="https://raw.githubusercontent.com/nemototea/nemototea/master/svg/hatenablog-logo.svg" >
-</a>
